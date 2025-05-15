@@ -119,7 +119,7 @@ string-note {
 
 
 /* For this demo only */
-body {
+/*body {
 	font-family: system-ui;
 	margin-inline: auto;
 	max-width: 1000px;
